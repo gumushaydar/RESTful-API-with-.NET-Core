@@ -1,0 +1,13 @@
+C:\Users\gumus\source\repos\TeacherStudentAPI\TeacherStudentAPI\bin\Debug\netcoreapp2.1\TeacherStudentAPI.deps.json
+C:\Users\gumus\source\repos\TeacherStudentAPI\TeacherStudentAPI\bin\Debug\netcoreapp2.1\TeacherStudentAPI.runtimeconfig.json
+C:\Users\gumus\source\repos\TeacherStudentAPI\TeacherStudentAPI\bin\Debug\netcoreapp2.1\TeacherStudentAPI.runtimeconfig.dev.json
+C:\Users\gumus\source\repos\TeacherStudentAPI\TeacherStudentAPI\bin\Debug\netcoreapp2.1\TeacherStudentAPI.dll
+C:\Users\gumus\source\repos\TeacherStudentAPI\TeacherStudentAPI\obj\Debug\netcoreapp2.1\TeacherStudentAPI.csproj.CoreCompileInputs.cache
+C:\Users\gumus\source\repos\TeacherStudentAPI\TeacherStudentAPI\obj\Debug\netcoreapp2.1\TeacherStudentAPI.RazorAssemblyInfo.cache
+C:\Users\gumus\source\repos\TeacherStudentAPI\TeacherStudentAPI\obj\Debug\netcoreapp2.1\TeacherStudentAPI.RazorAssemblyInfo.cs
+C:\Users\gumus\source\repos\TeacherStudentAPI\TeacherStudentAPI\obj\Debug\netcoreapp2.1\TeacherStudentAPI.AssemblyInfoInputs.cache
+C:\Users\gumus\source\repos\TeacherStudentAPI\TeacherStudentAPI\obj\Debug\netcoreapp2.1\TeacherStudentAPI.AssemblyInfo.cs
+C:\Users\gumus\source\repos\TeacherStudentAPI\TeacherStudentAPI\obj\Debug\netcoreapp2.1\TeacherStudentAPI.RazorTargetAssemblyInfo.cache
+C:\Users\gumus\source\repos\TeacherStudentAPI\TeacherStudentAPI\bin\Debug\netcoreapp2.1\TeacherStudentAPI.pdb
+C:\Users\gumus\source\repos\TeacherStudentAPI\TeacherStudentAPI\obj\Debug\netcoreapp2.1\TeacherStudentAPI.dll
+C:\Users\gumus\source\repos\TeacherStudentAPI\TeacherStudentAPI\obj\Debug\netcoreapp2.1\TeacherStudentAPI.pdb
